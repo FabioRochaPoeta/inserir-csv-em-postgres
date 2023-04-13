@@ -1,0 +1,15 @@
+1. Faça uma consulta que retorne todos os vendedores do estado do Paraná.
+2. Faça uma consulta que retorne todos os vendedores do estado do Paraná ou da cidade de sarandi.
+3. Faça uma consulta que retorne todos os pedidos que o preço esteja entre R\$ 45 e R\$ 125.
+4. Faça uma consulta que retorne todos os pedidos calculando o valor total do pedido (preço + frete).
+5. Faça uma consulta que retorne a data mínima e máxima de limite de entrega 
+6. Faça uma consulta que retorne os 10 vendedores que mais realizaram vendas.
+7. Faça uma consulta que retorne os tipos distintos de tipo de pagamento.
+8. Faça uma consulta que retorne a quantidade de pedidos agrupados por tipo de pagamento.
+9. Faça uma consulta que retorne a soma dos valores do pedidos agrupados por tipo de pagamento.
+10. Faça uma consulta que retorne as 10 cidades com mais clientes.
+11. Faça uma consulta que crie uma nova coluna concatenando as colunas de cidade e estado separando por hífen.
+12. Faça uma consulta que retorne a quantidade de ordens agrupadas por status do pedido
+13. Faça uma consuta que calcule a diferença de tempo entre a compra e aprovação da realização do pedido.
+14. Faça uma consulta que retorne todos as reviews que tenham score maior ou igual a 3 e que não tenha conteúdo vazio no comentário da mensagem.
+15. Faça uma consulta que crie uma nova coluna com os meses de as datas de criação das reviews
